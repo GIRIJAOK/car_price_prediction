@@ -10,11 +10,8 @@ This project uses various data preprocessing, feature engineering, and machine l
 - [Key Features](#key-features)
 - [Data](#data)
 - [Installation](#installation)
-- [How to Use](#how-to-use)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Real-World Applications](#real-world-applications)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
